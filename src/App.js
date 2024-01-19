@@ -5,16 +5,16 @@ import TableName from './components/button/table/table';
 import ListName1 from './components/button/list/list';
 import ListItems1 from './components/listItems/listItems';
 import FormValidation1 from './components/forms/forms';
-import TodoList,{Table1,List} from './components/todo/todo';
-import ButtonComponent from './components/classBased/button-component';
-import { ApiCall } from './components/expection/exception';
-import Apipost from './components/post-method/post-method';
-import 'bootstrap/dist/css/bootstrap.min.css';
-import BootstrapLayout from './components/bootstrap/first-component';
-import MapMethod from './components/bootstrap/mapMethod';
-import { InlineStyles } from './components/styling/inline-styles';
-import { ExternalStyling } from './components/styling/external-styling';
-import { Modulestyles } from './components/styling/module-styles';
+// import TodoList,{Table1,List} from './components/todo/todo';
+// import ButtonComponent from './components/classBased/button-component';
+// import { ApiCall } from './components/expection/exception';
+// import Apipost from './components/post-method/post-method';
+// import 'bootstrap/dist/css/bootstrap.min.css';
+// import BootstrapLayout from './components/bootstrap/first-component';
+// import MapMethod from './components/bootstrap/mapMethod';
+// import { InlineStyles } from './components/styling/inline-styles';
+// import { ExternalStyling } from './components/styling/external-styling';
+// import { Modulestyles } from './components/styling/module-styles';
 
 
 
