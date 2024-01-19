@@ -15,6 +15,10 @@ import MapMethod from './components/bootstrap/mapMethod';
 import { InlineStyles } from './components/styling/inline-styles';
 import { ExternalStyling } from './components/styling/external-styling';
 import { Modulestyles } from './components/styling/module-styles';
+
+
+
+
 import { Layout } from './components/bootstrap/layout';
 function App() {
   return (
